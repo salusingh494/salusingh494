@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravi Ranjan Kumar
-- 👀 I’m interested in Android app development
-- 🌱 I’m currently learning App development skills
+- 👀 I’m interested in frontend develper
+- 🌱 I’m currently learning web development skills
 - 📫 You can reach me on linkedin by searching my name
 - 
 <!---
